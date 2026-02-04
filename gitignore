@@ -1,0 +1,49 @@
+# Compiled Object files
+*.o
+*.obj
+
+# Executables
+*.exe
+*.out
+pia_booking_system
+
+# Compiler-specific files
+*.suo
+*.user
+*.sln.docstates
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
+
+# Build directories
+Debug/
+Release/
+x64/
+x86/
+build/
+bin/
+obj/
+
+# Data files (optional - uncomment if you don't want to track bookings)
+# bookings.txt
+
+# IDE specific files
+.vscode/
+.vs/
+*.swp
+*.swo
+*~
+.idea/
+*.iml
+
+# Mac specific
+.DS_Store
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# Log files
+*.log
