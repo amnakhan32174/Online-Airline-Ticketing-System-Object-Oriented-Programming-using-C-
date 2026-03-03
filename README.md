@@ -163,9 +163,9 @@ Potential improvements for this project:
 This project is created for educational purposes.
 
 ## Author
-[Your Name]
+Amna Nadeem
 Semester 3 OOP Project
-[Your University]
+National University of Sciences and Technology
 
 ## Acknowledgments
 - Original concept developed as part of Object-Oriented Programming course
